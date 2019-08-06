@@ -3,7 +3,9 @@ Basic app run with node and express for training
 
 ## How to use
 
-Clone and run `node server` or `nodemon server` to serve application to `http://localhost:3000`.
+Clone and run `npm install` from root.
+
+Run `node server` or `nodemon server` to serve application to `http://localhost:3000`.
 
 ## Endpoints
 
